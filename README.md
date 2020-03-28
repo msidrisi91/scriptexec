@@ -1,5 +1,5 @@
 <h1> Execute Script </h1>
-<p>This is a basic django Webapp with 3 functionality :-
+<p>This is a basic django webapp with 3 functionalities :-
   <br>
   <ol>
     <li>Executes a python script and prints the output on the page on click of a button</li>
